@@ -1,0 +1,9 @@
+data/*
+*.pth
+*.pyc
+
+*.log
+
+*.zip
+
+result_image/test/
